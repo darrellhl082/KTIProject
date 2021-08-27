@@ -1,0 +1,17 @@
+.title {
+    font: 'Montserrat', sans-serif;
+    color: rgb(11, 5, 36);
+}
+
+.navbar {
+    background-color: rgb(11, 5, 36);
+    font: 'Montserrat', sans-serif;
+}
+
+.darkblue {
+    color: rgb(11, 5, 36);
+}
+
+.btn-darkblue {
+    background-color: rgb(11, 5, 36);
+}

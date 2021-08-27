@@ -1,0 +1,74 @@
+@font-face {
+    font-family: MontserratMedium;
+    src: url(../Font/Montserrat/Montserrat-Medium.ttf);
+
+}
+
+@font-face {
+    font-family: MontserratBold;
+    src: url(../Font/Montserrat/Montserrat-SemiBold.ttf);
+
+}
+
+body {
+    background-color: #e0e0e0;
+    font-family: 'MontserratMedium', sans-serif;
+}
+
+
+.navbar {
+    background-color: #e0e0e0;
+}
+
+.navbar .container .navbar-brand {
+    font-family: 'MontserratBold', sans-serif;
+    /* color: #21409A; */
+    color: black;
+}
+
+.navbar .nav-item .nav-link {
+    font-family: 'MontserratMedium', sans-serif;
+    /* color: #21409A; */
+    color: black;
+    opacity: 1;
+}
+
+.nav-link:hover {
+    opacity: 1;
+}
+
+
+.main {
+    margin-top: 40px;
+    color: black
+}
+
+.menu {
+    border-radius: 30px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    box-shadow: 20px 20px 60px #bebebe,
+        -20px -20px 60px #ffffff;
+    margin: 30px 5px;
+    padding: 20px 0px;
+
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.menuList {
+    margin: auto;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    color: black;
+}

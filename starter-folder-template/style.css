@@ -1,0 +1,15 @@
+@font-face {
+    font-family: MontserratMedium;
+    src: url(../../Font/Montserrat/Montserrat-Medium.ttf);
+
+}
+
+@font-face {
+    font-family: MontserratBold;
+    src: url(../../Font/Montserrat/Montserrat-SemiBold.ttf);
+
+}
+
+body {
+    font-family: 'MontserratMedium', sans-serif;
+}
